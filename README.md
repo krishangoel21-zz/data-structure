@@ -10,6 +10,10 @@ ccxxc
 
 
 ```table
+
 > This line is part of the same quote.
+
+
+[krishan] : http://www.reddit.com
 
 ```
