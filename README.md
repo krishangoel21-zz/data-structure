@@ -54,7 +54,7 @@
 
 9. Sorting
 
-* Bubble sort
+* [Bubble sort](sorting/bubblesort.md)
 * Insertion sort
 * Selection sort
 * Merge Sort
