@@ -1,5 +1,7 @@
 # Bubble Sort 
 
+![alt text](/images/bubblesort.png)
+
 ```
 function bubbleSort(items) {
     var length = items.length;
@@ -23,5 +25,3 @@ function bubbleSort(items) {
 
 
 * The complexity of bubble sort is O(n2)  in both worst and average cases, because the entire array needs to be iterated for every element.
-
-![alt text](/images/bubblesort.png)
