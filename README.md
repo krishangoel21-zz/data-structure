@@ -56,7 +56,7 @@
 
 * [Bubble sort](sorting/bubblesort.md)
 * Insertion sort
-* Selection sort
+* [Selection sort](sorting/selectionsort.md)
 * Merge Sort
 * Shell sort
 * Quick Sort
